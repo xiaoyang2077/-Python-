@@ -1,4 +1,4 @@
-# 基于python的windouws勒索病毒
+# 基于python的windouws局域网勒索病毒
 
 # V3.0
 
